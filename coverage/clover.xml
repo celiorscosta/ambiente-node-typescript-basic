@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1666212473965" clover="3.2.0">
-  <project timestamp="1666212473965" name="All files">
+<coverage generated="1666279117148" clover="3.2.0">
+  <project timestamp="1666279117148" name="All files">
     <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
     <file name="user.ts" path="/root/estudos/proprios/ambiente-node-typescript-basic/src/models/user.ts">
       <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
